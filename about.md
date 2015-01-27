@@ -9,7 +9,7 @@ permalink: /about/
 
 My name is Jin Choi and I am a postdoc at Iowa State University. I am a member of [GERMS LAB](http://germslab.org) 
 
-![Choi family - End of 2014]({{ site.imagesurl }}/IMG_2564web.jpg "Choi family - End of 2014")
+![Choi family - End of 2014]({{ site.imagesurl }}/IMG_2564web.JPG "Choi family - End of 2014")
 
 
 
