@@ -7,7 +7,7 @@ permalink: /about/
 
 # Hi There!
 
-My name is Barry and I'm from NYC. I'm the [Director of Technical Product at DoSomething.org](https://www.linkedin.com/in/bazclark) where I serve as the chief unblocker within our engineering team.
+My name is Jin Choi and I am a postdoc at Iowa State University. I am a member of [GERMS LAB](http://germslab.org) 
 
 ![DoSomething.org Tech Team - End of 2013]({{ site.imagesurl }}/DoSomething-Tech-Team.jpg "DoSomething.org Tech Team - End of 2013")
 
@@ -16,6 +16,9 @@ I love building things, but more than anything I enjoy helping other developers 
 The best place to start is with [my free newsletter]({{ site.baseurl }}/newsletter/) where I deliver articles twice per month that will help you get hired as a web developer.
 
 ## My Recent Projects
+1. Carbon and Nitrogen cycling
+2. Reference metagenomics
+3. sRNA
 
 [**Jekyll Now**](http://github.com/barryclark/jekyll-now)  
 Create a Jekyll blog in minutes, without touching the command line.
