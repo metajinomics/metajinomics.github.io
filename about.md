@@ -9,9 +9,9 @@ permalink: /about/
 
 My name is Jin Choi and I am a postdoc at Iowa State University. I am a member of [GERMS LAB](http://germslab.org) 
 
-![DoSomething.org Tech Team - End of 2013]({{ site.imagesurl }}/DoSomething-Tech-Team.jpg "DoSomething.org Tech Team - End of 2013")
+![Choi family - End of 2014]({{ site.imagesurl }}/IMG_2564web.JPG "Choi family - End of 2014")
 
-I love building things, but more than anything I enjoy helping other developers do what they love: writing code. If you're just starting out as a web developer and are looking to land your first serious web development work, this site is for you.
+
 
 The best place to start is with [my free newsletter]({{ site.baseurl }}/newsletter/) where I deliver articles twice per month that will help you get hired as a web developer.
 
@@ -21,13 +21,13 @@ The best place to start is with [my free newsletter]({{ site.baseurl }}/newslett
 3. sRNA
 
 [**Jekyll Now**](http://github.com/barryclark/jekyll-now)  
-Create a Jekyll blog in minutes, without touching the command line.
+test1
 
 [**Bashstrap**](http://github.com/barryclark/bashstrap)  
-Bootstrap for your terminal. A quick way to spruce up OSX terminal. It cuts out the fluff, adds in timesaving features, and provides a solid foundation for customizing your terminal style. 
+test2
 
 [**Get Hired as a Web Developer**]({{ site.baseurl }}/newsletter/)  
-That's this blog aiming to help you get hired as a web developer. You can sign up to my newsletter below.
+test3
 
 ## 6 Random Facts About Me
 
