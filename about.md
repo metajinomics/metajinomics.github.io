@@ -24,7 +24,7 @@ sRNA
 
 ## 6 Random Facts About Me
 
-1. I am a Jinlyung Choi [things I want to do before I die]({{ site.baseurl }}/about/bucket-list/).
+1. I am a Jinlyung Choi.
 2. I am a postdoc at the [Iowa State University](http://www.iastate.edu).
 3. I am a memeber of [GERMS-LAB](http://germslab.org).
 4. I assemble meta-genomics and meta-transcriptomics data
