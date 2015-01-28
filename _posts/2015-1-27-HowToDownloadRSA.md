@@ -14,8 +14,10 @@ categories:
 go to ncbi
 choose SRA at search. add keyword and search
 find FTP address and copy into computer by using 
-ncftp ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR492/SRR492065
 
+<pre><code>
+$ ncftp ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR492/SRR492065
+</code></pre>
 2. And convert SRA into FASTQ. fastq-dump --gzip SRR492065.sra
 Now I have SRR492065.fastq.gz
 
