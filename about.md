@@ -14,13 +14,13 @@ My name is Jin Choi and I am a postdoc at Iowa State University. I am a member o
 ## My Recent Projects
 
 [**Carbon and Nitrogen cycling**](https://github.com/metajinomics/metajinomics.github.io)  
-test1
+Carbon and Nitrogen cycling
 
 [**Reference metagenomics**](https://github.com/metajinomics/metajinomics.github.io)  
-test2
+Reference metagenomics
 
 [**sRNA**]({{ site.baseurl }}/newsletter/)  
-test3
+sRNA
 
 ## 6 Random Facts About Me
 
