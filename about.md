@@ -11,10 +11,6 @@ My name is Jin Choi and I am a postdoc at Iowa State University. I am a member o
 
 ![Choi family - End of 2014]({{ site.imagesurl }}/IMG_2564web.JPG "Choi family - End of 2014")
 
-
-
-The best place to start is with [my free newsletter]({{ site.baseurl }}/newsletter/) where I deliver articles twice per month that will help you get hired as a web developer.
-
 ## My Recent Projects
 
 [**Carbon and Nitrogen cycling**](https://github.com/metajinomics/metajinomics.github.io)  
